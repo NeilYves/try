@@ -1,0 +1,89 @@
+[2025-06-14 02:08:19] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:19] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:21] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:21] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:22] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:22] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:23] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:23] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:24] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:24] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_officials.php on line 13
+[2025-06-14 02:08:24] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_households.php on line 9
+[2025-06-14 02:08:24] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_households.php on line 9
+[2025-06-14 02:08:25] E_ERROR: Undefined global variable $_SESSION in C:\xampp\htdocs\MINGMING\manage_puroks.php on line 9
+[2025-06-14 02:08:25] E_ERROR: Trying to access array offset on value of type null in C:\xampp\htdocs\MINGMING\manage_puroks.php on line 9
+[2025-06-14 02:49:50] EXCEPTION: Unknown column 'status' in 'where clause' in C:\xampp\htdocs\MINGMING\view_certificate.php on line 41
+[2025-06-14 03:00:38] EXCEPTION: Unknown column 'status' in 'where clause' in C:\xampp\htdocs\MINGMING\view_certificate.php on line 41
+[2025-06-14 03:03:42] EXCEPTION: Unknown column 'default_purpose' in 'field list' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 23
+[2025-06-14 03:03:56] EXCEPTION: Unknown column 'default_purpose' in 'field list' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 23
+[2025-06-14 03:04:12] EXCEPTION: Unknown column 'default_purpose' in 'field list' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 23
+[2025-06-14 03:05:28] EXCEPTION: Unknown column 'status' in 'where clause' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 32
+[2025-06-14 03:05:31] EXCEPTION: Unknown column 'status' in 'where clause' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 32
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 13
+[2025-06-14 03:24:18] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 181
+[2025-06-14 03:24:18] E_ERROR: Undefined variable $barangay_address_line1 in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 182
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "resident_fullname" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 198
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "resident_gender" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 215
+[2025-06-14 03:24:18] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 216
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "purpose" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 220
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 222
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 223
+[2025-06-14 03:24:18] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 224
+[2025-06-14 03:24:18] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 241
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 13
+[2025-06-14 03:29:16] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 181
+[2025-06-14 03:29:16] E_ERROR: Undefined variable $barangay_address_line1 in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 182
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "resident_fullname" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 198
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "resident_gender" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 215
+[2025-06-14 03:29:16] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 216
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "purpose" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 220
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 222
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 223
+[2025-06-14 03:29:16] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 224
+[2025-06-14 03:29:16] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 241
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 13
+[2025-06-14 03:29:22] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 181
+[2025-06-14 03:29:22] E_ERROR: Undefined variable $barangay_address_line1 in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 182
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "resident_fullname" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 198
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "resident_gender" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 215
+[2025-06-14 03:29:22] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 216
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "purpose" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 220
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 222
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 223
+[2025-06-14 03:29:22] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 224
+[2025-06-14 03:29:22] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 241
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 13
+[2025-06-14 03:34:51] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 181
+[2025-06-14 03:34:51] E_ERROR: Undefined variable $barangay_address_line1 in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 182
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "resident_fullname" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 198
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "resident_gender" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 215
+[2025-06-14 03:34:51] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 216
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "purpose" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 220
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 222
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 223
+[2025-06-14 03:34:51] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 224
+[2025-06-14 03:34:51] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 241
+[2025-06-14 03:34:55] EXCEPTION: Unknown column 'default_purpose' in 'field list' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 25
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 13
+[2025-06-14 03:34:58] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 181
+[2025-06-14 03:34:58] E_ERROR: Undefined variable $barangay_address_line1 in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 182
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "resident_fullname" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 198
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "resident_gender" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 215
+[2025-06-14 03:34:58] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 216
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "purpose" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 220
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 222
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 223
+[2025-06-14 03:34:58] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 224
+[2025-06-14 03:34:58] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 241
+[2025-06-14 03:35:09] EXCEPTION: Unknown column 'default_purpose' in 'field list' in C:\xampp\htdocs\MINGMING\issue_certificate_form.php on line 25
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 13
+[2025-06-14 04:05:07] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 181
+[2025-06-14 04:05:07] E_ERROR: Undefined variable $barangay_address_line1 in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 182
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "resident_fullname" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 198
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "resident_gender" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 215
+[2025-06-14 04:05:07] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 216
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "purpose" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 220
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 222
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "issue_date" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 223
+[2025-06-14 04:05:07] E_ERROR: Undefined variable $barangay_name in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 224
+[2025-06-14 04:05:07] E_ERROR: Undefined array key "control_number" in C:\xampp\htdocs\MINGMING\templates\template_barangay_clearance.php on line 241
