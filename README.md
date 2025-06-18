@@ -5,13 +5,16 @@ The SentroGlad: Centralized Barangay Registry Information System with Message Bl
 
 Technology Stack:
 Frontend:
+
     . HTML 5, CSS3
     . Bootstrap 5
     . Javascript
 Backend:
+
     . PHP 8.3.22
     . MySQL ( XAMPP for local development)
 Tools:
+
     . XAMPP (Apache + MySQL)
     . Sublime Text 3
     . phpMyAdmin
